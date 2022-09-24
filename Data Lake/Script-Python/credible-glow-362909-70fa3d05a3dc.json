@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "credible-glow-362909",
+  "private_key_id": "70fa3d05a3dcca1435c57244d7dd69397563731c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmQ4PH+xtbJmo7\nOWTjQNuCAPU7OTlIQg8YJ7RPE3WWnVF93Ylr258dIkJ0Ff7NqrJo3VziEiGyolPS\nGLWD+Z2UK3p+krUAf1mabjYqO3phJNJSQBwOu+xbrqDAHFOfZrA/7EtKpRMAqMyE\nSLKjYq5GanKdGBFShRKHsVokVH6tkSg8St4+L9mDnBFp3KG/TQv4eZ9IVxOB7eVH\n8pm7LMDFmG/atKWHL8ps8xBmCQcv4VbKeHizGieXlY/IAvYL27Ny/KyoGRrTBKiT\ncKztG9HhTQZIea2aujBSryvxHkU/MRVeHUDD1dMiyhjJY8Gpb/oxiy7OHaAJd2q0\n1GHQDrzJAgMBAAECggEABA0vH+dpkj4MZqcOY09IShG16ByL3cvmTENjbG3f9qyc\nuMF2QM+YQAB+uA91JxPaxx1lzwh8E7tK6Zq6iZ3CjkLE+GKg0INJ7q5y2XKbl9Rq\n36A6Ts2bg9xshGHsU70P3G7oosgE/4Ydfbe7yqlz77lWU6erfGRLwEy9EpeQgrA1\nv4Ds80rDlZo711epdTKpOHiMnCJx07dfpmlb4YpsFND1WzmtWmTbfcWKAy5SNdpI\nSOcXOBt6iwKrgZ+VG0GUt/G1W0GnOQSjRe+MOZwxQbGcY+dtOXNIVGnND3tGJtkC\neeRnGH4jHyHXD8Rb42v/eYKnnEKJhh3Cz3DtwaA3RQKBgQDhkSBRNoIRTb6hseaw\nkBMTDD2BnFKiC/QWcd2Izko2D4xuOZXGarQBX+gFf6ZRYptKvs6aClM/W6aPtxYo\nxs0Wvv8WbsX6aZbp26a2Ci60iSd8xMmKMuLfwguKmDDSF1G+HSGE15h9b5iltga4\nxRScfD4KOJPMQe46wCIxuyE3VwKBgQC8shyIL6Oz9CvAk/kFFY8vZ2HvEz3/TREn\nMkDxCqb4epGrW7R/4Z6WxqqThVmrrNBdSczLtkpo4Icz9NuxZ0BPMZkHuOwjB4Hl\nazGnMRYDO8tvTYkqKHDq+7Lxc83t7S0x62b6It1gZZ0j8zxjfzm4MlCmcPdY4mu0\nK+Ga6c+43wKBgQC6s6nBLtHHysbgBWVBfW8cVARQ1HgdArHdJhBM3RrV1lbRIT7U\nRZuKi7x7WKXsNSb+XiKZo7Q1/AFIcS2ZQLueeSaghb2+wEkWdiVuBc2UxvV1M1jx\n156rwGxXIhM+weh56JjG4MCqCoWZm6nCo/WkdL3RLfU/ms65uDBVY2Nh7wKBgFjz\nZXvVaUg1fEKF/sekyCDCjWoUGg+1lrZxfCekq91KekzbKBV4mDffYx2zqPfCuV6g\noYgOYLlbzqBxdvcEA07RxJ/dToOc0GEDzR5Rh1zy3Q2U8WoMMl6zVEF6I8NbIQj9\nPUgBE3aTsCX4TalhmiX4ogg0DIW8BqWiYfGS8rblAoGBAI7+9stkK/dlgLnNwh+x\nr4fRcQ3P0KU0ank0QGC0nAYUeRRvRyUPRUTZJm+ZVptwOG0a3kywqzOYh9JMcuSl\nX4NZR4Gql2j/RUrMMf15eaxwfYTQREq6ENhw6p6clg9QEK0UZ0I0xfnpwu58QLF+\nA60/uUVbA0us8kVTiAwYxeMc\n-----END PRIVATE KEY-----\n",
+  "client_email": "datafellowship@credible-glow-362909.iam.gserviceaccount.com",
+  "client_id": "115672474713818885480",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datafellowship%40credible-glow-362909.iam.gserviceaccount.com"
+}
