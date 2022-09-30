@@ -1,0 +1,9 @@
+version: 2
+
+models:
+    - name: VendorID
+      description : Source table of trip data 2021
+      columns:
+          - name: VendorID
+            tests:
+                - not_null
