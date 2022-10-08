@@ -1,0 +1,11 @@
+{
+  "namespace": "com.bitcoin",
+  "type": "record",
+  "name": "bicoindeKey",
+  "fields": [
+    {
+      "name": "Open",
+      "type": "float"
+    }
+  ]
+}

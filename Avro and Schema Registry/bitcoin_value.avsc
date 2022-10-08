@@ -1,0 +1,23 @@
+{
+  "namespace": "com.bitcoin",
+  "type": "record",
+  "name": "bitcoindeValue",
+  "fields": [
+    {
+      "name": "Open",
+      "type": "float"
+    },
+    {
+      "name": "High",
+      "type": "float"
+    },
+    {
+      "name": "Low",
+      "type": "float"
+    },
+    {
+      "name": "Close",
+      "type": "float"
+    }
+  ]
+}
